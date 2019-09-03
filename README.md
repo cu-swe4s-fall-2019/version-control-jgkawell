@@ -9,3 +9,6 @@ Created add function
 
 # Update 3
 Created calculate file to test math_lib
+
+# Update 4
+Added a run script
