@@ -3,4 +3,8 @@ def div(a, b):
         # cannot divide by zero
         return None
     else:
-        return a/b
+        return a / b
+
+
+def add(a, b):
+    return a + b
